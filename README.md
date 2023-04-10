@@ -19,7 +19,9 @@ Shorten a long URL by entering it into the input field on the home page.<br>
 View a list of all URLs that have been shortened by visiting /urls.<br>
 Redirect to the original long URL by visiting the shortened URL.<br>
 ## Screenshots
-![Screenshot](https://github.com/mohamedmuqheet/tinyurl-generator/raw/master/Screenshot%20(334).png"URL_shortener")<br>
+![Screenshot](https://github.com/mohamedmuqheet/tinyurl-generator/raw/master/Screenshot%20(334).png "URL_shortener")<br>
+![Screenshot](https://github.com/mohamedmuqheet/tinyurl-generator/raw/master/Screenshot%20(335).png "URL_shortener")
+
 
 ## Usage
 Enter a long URL into the input field on the home page and click "Shorten".<br>
