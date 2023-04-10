@@ -1,4 +1,4 @@
-# Tiny URL-Geneartor
+# Tiny URL-Generator
 This is a URL shortening web application built using Flask and SQLAlchemy. The purpose of this application is to provide short URLs that can be used instead of long URLs to access websites. This can be useful in situations where a long URL needs to be shared, for example on social media, where character limits can be a concern.
 
 ## Technologies Used
