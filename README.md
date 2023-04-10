@@ -18,6 +18,9 @@ Visit http://localhost:5000 in your web browser to access the application.<br>
 Shorten a long URL by entering it into the input field on the home page.<br>
 View a list of all URLs that have been shortened by visiting /urls.<br>
 Redirect to the original long URL by visiting the shortened URL.<br>
+## Screenshots
+![Screenshot](https://github.com/mohamedmuqheet/tinyurl-generator/raw/master/Screenshot%20(334).png"URL_shortener")<br>
+
 ## Usage
 Enter a long URL into the input field on the home page and click "Shorten".<br>
 The application will create a short URL for the long URL and return it.<br>
