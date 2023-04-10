@@ -1,0 +1,9 @@
+{% extends "base.html" %}
+{% block title %}shortened URL{% endblock %}
+
+{% block content %}
+    <div class="jumbotron text-center">
+        <h1>Your shortened URL:</h1>
+        <a href="{{ short_url_display }}" target="_blank">{{ short_url_display }}</a>
+    </div>
+{% endblock %}
